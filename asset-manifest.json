@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profit4all/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/profit4all/static/js/main.b6d8496e.chunk.js",
+    "main.js.map": "/profit4all/static/js/main.b6d8496e.chunk.js.map",
+    "runtime-main.js": "/profit4all/static/js/runtime-main.bdc4fc28.js",
+    "runtime-main.js.map": "/profit4all/static/js/runtime-main.bdc4fc28.js.map",
+    "static/js/2.c2161ac1.chunk.js": "/profit4all/static/js/2.c2161ac1.chunk.js",
+    "static/js/2.c2161ac1.chunk.js.map": "/profit4all/static/js/2.c2161ac1.chunk.js.map",
+    "static/js/3.6100b1bd.chunk.js": "/profit4all/static/js/3.6100b1bd.chunk.js",
+    "static/js/3.6100b1bd.chunk.js.map": "/profit4all/static/js/3.6100b1bd.chunk.js.map",
+    "index.html": "/profit4all/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/profit4all/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c2161ac1.chunk.js.LICENSE.txt": "/profit4all/static/js/2.c2161ac1.chunk.js.LICENSE.txt",
+    "static/media/profile.347a3db0.jpg": "/profit4all/static/media/profile.347a3db0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdc4fc28.js",
+    "static/js/2.c2161ac1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b6d8496e.chunk.js"
+  ]
+}
